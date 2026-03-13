@@ -31,7 +31,7 @@ from pystray import Icon, Menu, MenuItem
 # ==========================================
 # --- ⚙️ MASTER CONFIGURATION SECTION ⚙️ ---
 # ==========================================
-WLED_IP = "http://192.168.1.162"
+WLED_IP = "http://192.168.1.x"
 CHECK_INTERVAL = 2
 
 # --- APP WINDOW TITLES ---

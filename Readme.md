@@ -1,4 +1,4 @@
-# 🎙️ Universal WLED On-Air Sign Sync (v3.1.0)
+# 🎙️ Universal WLED On-Air Sign Sync (v3.2.0)
 
 This Python script acts as a "Universal On-Air Light" for remote workers. It monitors your Windows PC for active meeting software and automatically triggers a physical WLED smart light over your local network. 
 
